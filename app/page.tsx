@@ -46,15 +46,3 @@ const Home = ({ searchParams }: SearchParamProps) => {
 };
 
 export default Home;
-<script>
-window.embeddedChatbotConfig = {
-chatbotId: "byudj8775PlO0oAL8KXF3",
-domain: "www.chatbase.co"
-}
-</script>
-<script
-src="https://www.chatbase.co/embed.min.js"
-chatbotId="byudj8775PlO0oAL8KXF3"
-domain="www.chatbase.co"
-defer>
-</script>
